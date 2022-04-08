@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Nesti San en Cosquin Mosh bar",
+      "day": "23 de Abril",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Nesti San Y RivalX en Lima2 Bar",
+      "day": "30 de Abril",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Ensayo Rivalxx",
+      "day": "8 de Abril",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
